@@ -1,0 +1,25 @@
+# Build output
+build/
+bin/
+obj/
+test-build*/
+test-final/
+*.pdb
+
+# Test artifacts
+fixture.pptx
+context-settings.txt
+preference.txt
+
+# IDE and operating system files
+.vs/
+.vscode/
+*.user
+*.suo
+Thumbs.db
+Desktop.ini
+
+# Temporary files
+*.tmp
+*.log
+~$*
